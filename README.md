@@ -2,18 +2,11 @@
 
 <h2>👨‍💻 CYBERSECURITY PROJECTS:</h2>
 
-- 
-
-<h2>📺 Popular YouTube Videos</h2>
-
--Active Directory Home lab
-
+- -https://github.com/ahmed86-star/ActiveDirectoryLab/edit/main/README.md
 <
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
