@@ -2,12 +2,18 @@
 
 **`cybersecurity engineer/ SOC ANALYST)`**
 
-"Hello, I'm Ahmed, a passionate individual with a keen interest in cybersecurity. As a Security Operations Center (SOC) Analyst, I enjoy the challenge of identifying and mitigating potential security threats. With a strong technical background and a deep understanding of security protocols, I am committed to safeguarding digital systems and data. I continuously stay updated with the latest industry trends to ensure that I am equipped with the knowledge and skills necessary to tackle emerging cyber threats!"
+"Hello, I'm Ahmed, 
+
+- I’m currently compiling my projects/lab writeups and obtaining my **Sec+ & CySA+ certifications.**
+
+- 🧠 I’m learning **Python scripting  & Cloud Detection/Response for Azure.**
+
+- 👥 I’m always interesed to collaborate on **Cloud Security Projects,Threat Detection, Home Labs & more.**
 
   
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 
 ---
-
 ### 🧰 Languages and Tools
 
 
@@ -18,6 +24,14 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+
+<h4 align="center"> IN PROGRESS </h4>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/AHMED1.png" alt="TryHackMe">
+
+
+
+ </p> 
 #
  👨‍💻 CYBERSECURITY PROJECTS:
 
@@ -27,5 +41,6 @@
 
   <Identify suspicious files using virus total>
  - https://github.com/ahmed86-star/Identify-suspicious-files-using-virus-total/commit/743fdf955d4ea1e1d43a62b5324bfdde8fee05cd<
+ - https://github.com/ahmed86-star/Azure-Sentinel-Honeypot
 
 
