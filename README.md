@@ -1,6 +1,6 @@
 
 
-**`cybersecurity engineer/ SOC ANALYST)`**
+**`cloud engineer/ Devops)`**
 
 "Hello, I'm Ahmed, 
 
