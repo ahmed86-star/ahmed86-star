@@ -6,6 +6,8 @@
 
 - I’m currently compiling my projects/lab writeups and obtaining my **Sec+ & CySA+ certifications.**
 
+- 🚀 working towards obtaining my AWS Certified Cloud Practitioner & Azure Fundamentals certifications.
+
 - 🧠 I’m learning **Python scripting  & Cloud Detection/Response for Azure.**
 
 - 👥 I’m always interesed to collaborate on **Cloud Security Projects,Threat Detection, Home Labs & more.**
@@ -32,10 +34,11 @@
 
 
  </p> 
-#
- 👨‍💻 CYBERSECURITY PROJECTS:
 
-<HOMEDIRECTORYLAB>
+-🌱 Currently learning: Kubernetes, Terraform, and advanced AWS services.
+
+-📢 Open to collaboration, learning opportunities, and networking with DevOps professionals!
+
 
 - -https://github.com/ahmed86-star/ActiveDirectoryLab/edit/main/README.md<
 
