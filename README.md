@@ -37,10 +37,3 @@
 
 -📢 Open to collaboration, learning opportunities, and networking with DevOps professionals!
 
-
-- -https://github.com/ahmed86-star/ActiveDirectoryLab/edit/main/README.md<
-
-  <Identify suspicious files using virus total>
- - https://github.com/ahmed86-star/Identify-suspicious-files-using-virus-total/commit/743fdf955d4ea1e1d43a62b5324bfdde8fee05cd<
- - https://github.com/ahmed86-star/Azure-Sentinel-Honeypot
- - https://github.com/ahmed86-star/Azure-Wireshark-Network-Lab
